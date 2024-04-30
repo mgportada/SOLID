@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LiskovSubstitutionPrinciple.Problem.Program">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQABAAAAAAAAAAAEAAAAAAAFAAAAAA=</HashCode>
+      <FileName>Problem\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LiskovSubstitutionPrinciple.Problem.Pato">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAAQAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem\Pato.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LiskovSubstitutionPrinciple.Problem.PatoPlastico">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAAQAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem\PatoPlastico.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LiskovSubstitutionPrinciple.Problem.Avestruz">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAAQAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem\Avestruz.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LiskovSubstitutionPrinciple.Problem.Pinguino">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAAQAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem\Pinguino.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="LiskovSubstitutionPrinciple.Problem.IPajaro">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAAQAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Problem\IPajaro.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
