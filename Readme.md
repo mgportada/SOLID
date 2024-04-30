@@ -14,9 +14,9 @@
 
 
 ## Pasos:
-    * Crea una rama para cada proyecto
-	* Crear la carpeta Solution y copiar los archivos que consideres necesarios.
-	* No puede existir 2 Main en el proyecto, renombra el Main de Problem
-	* Cuando lo soluciones crea un pull-request.
-	* Vuelve a la master y vuelve a crear otra rama para el siguiente proyecto.
-	* Cuando los pull-request sean aceptados, unelos a la master. Es posible que para el resto de ramas necesites hacer rebase.
+* Crea una rama para cada proyecto
+* Crear la carpeta Solution y copiar los archivos que consideres necesarios.
+* No puede existir 2 Main en el proyecto, renombra el Main de Problem
+* Cuando lo soluciones crea un pull-request.
+* Vuelve a la master y vuelve a crear otra rama para el siguiente proyecto.
+* Cuando los pull-request sean aceptados, unelos a la master. Es posible que para el resto de ramas necesites hacer rebase. Al no existir conflictos será inmediato.
