@@ -10,7 +10,7 @@
 * [The Coder Cave esp](https://www.youtube.com/watch?v=lUPvI-Kv9UI)
 * [Makigas](https://www.youtube.com/watch?v=JQX7wrCzxFA)
 * [Hdeleon](https://www.youtube.com/watch?v=pGYHeYig19Q&list=PLWYKfSbdsjJjk_kK-fYcjoYF_TS8_kysZ)
-
+* [Consejos C#](https://www.youtube.com/watch?v=d_D1R-9-hE0)
 
 ## Pasos:
 * Crea una rama para cada proyecto

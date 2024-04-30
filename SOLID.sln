@@ -13,18 +13,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_InterfaceSegregationPrin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_DependencyInversionPrinciple", "DependencyInversionPrinciple\05_DependencyInversionPrinciple.csproj", "{6C900BED-EDD3-4747-A8BC-078C062F9AFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_OpenClosedPrinciple", "0_SingleResponsibilityPrinciple2\12_OpenClosedPrinciple.csproj", "{14181D49-D1CE-4B4B-B369-7C0131577812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_OpenClosedPrinciple", "0_SingleResponsibilityPrinciple2\12_OpenClosedPrinciple.csproj", "{14181D49-D1CE-4B4B-B369-7C0131577812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_LiskovSubtitutionPrinciple", "13LiskovSubtitutionPrinciple\13_LiskovSubtitutionPrinciple.csproj", "{E076E9D5-6043-4986-97FF-E2AA6E167CA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_LiskovSubtitutionPrinciple", "13LiskovSubtitutionPrinciple\13_LiskovSubtitutionPrinciple.csproj", "{E076E9D5-6043-4986-97FF-E2AA6E167CA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_InterfaceSegregationPrinciple", "14InterfaceSegregationPrinciple\14_InterfaceSegregationPrinciple.csproj", "{AC46889F-34E8-45E6-9DCC-879B2DE9D551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_InterfaceSegregationPrinciple", "14InterfaceSegregationPrinciple\14_InterfaceSegregationPrinciple.csproj", "{AC46889F-34E8-45E6-9DCC-879B2DE9D551}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{C5AC8B50-A307-4D34-B658-0CA15B2E8B92}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_DependencyInvesionPrinciple", "15_DependencyInvesionPrinciple\15_DependencyInvesionPrinciple.csproj", "{6E320910-2A13-45BE-97CF-7C3183BF8909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_DependencyInvesionPrinciple", "15_DependencyInvesionPrinciple\15_DependencyInvesionPrinciple.csproj", "{6E320910-2A13-45BE-97CF-7C3183BF8909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_OpenClosePrinciple", "22_OpenClosePrinciple\22_OpenClosePrinciple.csproj", "{E8715D93-6426-412B-94C4-91A169FAE996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33_LiskovSubtitutionPrinciple", "33_LiskovSubtitutionPrinciple\33_LiskovSubtitutionPrinciple.csproj", "{D17BE9BA-C00D-4684-B04B-DF5C0517FC87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -68,6 +73,14 @@ Global
 		{6E320910-2A13-45BE-97CF-7C3183BF8909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E320910-2A13-45BE-97CF-7C3183BF8909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E320910-2A13-45BE-97CF-7C3183BF8909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8715D93-6426-412B-94C4-91A169FAE996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8715D93-6426-412B-94C4-91A169FAE996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8715D93-6426-412B-94C4-91A169FAE996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8715D93-6426-412B-94C4-91A169FAE996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17BE9BA-C00D-4684-B04B-DF5C0517FC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17BE9BA-C00D-4684-B04B-DF5C0517FC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17BE9BA-C00D-4684-B04B-DF5C0517FC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17BE9BA-C00D-4684-B04B-DF5C0517FC87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
