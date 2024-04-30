@@ -1,10 +1,9 @@
 # SOLID
-* **S** - Principio de responsabilidad �nica (Single Responsibility Principle): Una clase deber�a tener una �nica raz�n para cambiar. En otras palabras, una clase debe tener una sola responsabilidad y no debe tener m�s de una raz�n para ser modificada.
-* **O** - Principio de abierto/cerrado (Open/Closed Principle): Las entidades de software (clases, m�dulos, funciones, etc.) deben estar abiertas para la extensi�n pero cerradas para la modificaci�n. Esto significa que el comportamiento de una clase debe poder extenderse sin modificar su c�digo fuente.
-* **L** - Principio de sustituci�n de Liskov (Liskov Substitution Principle): Las clases derivadas deben ser substituibles por sus clases base sin afectar el comportamiento del programa. Esto garantiza que los objetos de las clases derivadas se puedan usar en lugar de los objetos de las clases base sin necesidad de conocer la diferencia.
-* **I** - Principio de segregaci�n de interfaces (Interface Segregation Principle): Los clientes no deber�an ser forzados a depender de interfaces que no utilizan. En lugar de tener interfaces monol�ticas, es mejor tener interfaces m�s espec�ficas y m�s peque�as.
-* **D** - Principio de inversi�n de dependencia (Dependency Inversion Principle): Los m�dulos de alto nivel no deber�an depender de los m�dulos de bajo nivel. Ambos deber�an depender de abstracciones. Adem�s, las abstracciones no deber�an depender de los detalles; los detalles deber�an depender de las abstracciones.
-
+* **S** - Principio de responsabilidad única (Single Responsibility Principle): Una clase debería tener una única razón para cambiar. En otras palabras, una clase debe tener una sola responsabilidad y no debe tener más de una razón para ser modificada.
+* **O** - Principio de abierto/cerrado (Open/Closed Principle): Las entidades de software (clases, módulos, funciones, etc.) deben estar abiertas para la extensión pero cerradas para la modificación. Esto significa que el comportamiento de una clase debe poder extenderse sin modificar su código fuente.
+* **L** - Principio de sustitución de Liskov (Liskov Substitution Principle): Las clases derivadas deben ser sustituibles por sus clases base sin afectar el comportamiento del programa. Esto garantiza que los objetos de las clases derivadas se puedan usar en lugar de los objetos de las clases base sin necesidad de conocer la diferencia.
+* **I** - Principio de segregación de interfaces (Interface Segregation Principle): Los clientes no deberían ser forzados a depender de interfaces que no utilizan. En lugar de tener interfaces monolíticas, es mejor tener interfaces más específicas y más pequeñas.
+* **D** - Principio de inversión de dependencia (Dependency Inversion Principle): Los módulos de alto nivel no deberían depender de los módulos de bajo nivel. Ambos deberían depender de abstracciones. Además, las abstracciones no deberían depender de los detalles; los detalles deberían depender de las abstracciones.
 
 ## Tutoriales:
 * [BettaTech](https://www.youtube.com/watch?v=2X50sKeBAcQ)
